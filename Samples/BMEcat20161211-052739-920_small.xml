@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE BMECAT SYSTEM "bmecat_new_catalog_1_2.dtd">
+<BMECAT version="1.2">
+	<HEADER>
+		<GENERATOR_INFO>SAP-PI</GENERATOR_INFO>
+		<CATALOG>
+			<LANGUAGE>eng</LANGUAGE>
+			<CATALOG_ID>GHeinemann4954</CATALOG_ID>
+			<CATALOG_VERSION>0001767</CATALOG_VERSION>
+			<CATALOG_NAME>GHeinemann4954</CATALOG_NAME>
+			<DATETIME type="generation_date">
+				<DATE>2016-12-11</DATE>
+				<TIME>04:38:40</TIME>
+			</DATETIME>
+			<TERRITORY>DK</TERRITORY>
+			<CURRENCY>EUR</CURRENCY>
+			<MIME_ROOT>.</MIME_ROOT>
+		</CATALOG>
+		<BUYER>
+			<BUYER_ID>PeterJustesen</BUYER_ID>
+			<BUYER_NAME>PeterJustesen</BUYER_NAME>
+		</BUYER>
+		<SUPPLIER>
+			<SUPPLIER_NAME>Gebr. Heinemann</SUPPLIER_NAME>
+		</SUPPLIER>
+	</HEADER>
+	<T_NEW_CATALOG>
+		<ARTICLE mode="new">
+			<SUPPLIER_AID>1072546</SUPPLIER_AID>
+			<ARTICLE_DETAILS>
+				<DESCRIPTION_SHORT>UV Protective Liquid FD MB</DESCRIPTION_SHORT>
+				<DESCRIPTION_LONG>UV Protective Liquid FD MB</DESCRIPTION_LONG>
+				<EAN>10107306301</EAN>
+				<SUPPLIER_ALT_AID>10107306301</SUPPLIER_ALT_AID>
+				<MANUFACTURER_AID>0000300028</MANUFACTURER_AID>
+				<MANUFACTURER_NAME>Shiseido Europe S.A.S.</MANUFACTURER_NAME>
+			</ARTICLE_DETAILS>
+			<ARTICLE_FEATURES>
+				<FEATURE>
+					<FNAME>Net content</FNAME>
+					<FVALUE>30.000</FVALUE>
+					<FUNIT>ML</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Brand</FNAME>
+					<FVALUE>Shiseido</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Name of product Line</FNAME>
+					<FVALUE>Suncare</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Merchandise_Catagory</FNAME>
+					<FVALUE>T85101050</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Country of origin</FNAME>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Alcohol_percentage</FNAME>
+					<FVALUE>3.08</FVALUE>
+					<FUNIT>%</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Article_Description</FNAME>
+					<FVALUE>UV Protective Liquid FD MB</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Base_Unit</FNAME>
+					<FVALUE>102</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Pallet_Content</FNAME>
+					<FVALUE>2.856</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Gross weight</FNAME>
+					<FVALUE>0.052</FVALUE>
+					<FUNIT>KG</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Net weight</FNAME>
+					<FVALUE>0.030</FVALUE>
+					<FUNIT>KG</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Commodity No.</FNAME>
+					<FVALUE>33049900000</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Charge for expiration date</FNAME>
+					<FVALUE>0</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Expiration date - Total Shelf Life</FNAME>
+					<FVALUE>0</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Lenght PCE</FNAME>
+					<FVALUE>5.500</FVALUE>
+					<FUNIT>CM</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Widht PCE</FNAME>
+					<FVALUE>2.500</FVALUE>
+					<FUNIT>CM</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Height PCE</FNAME>
+					<FVALUE>8.000</FVALUE>
+					<FUNIT>CM</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Lenght CAR</FNAME>
+					<FVALUE>52.000</FVALUE>
+					<FUNIT>CM</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Widht CAR</FNAME>
+					<FVALUE>5</FVALUE>
+					<FUNIT>CM</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Height CAR</FNAME>
+					<FVALUE>21.000</FVALUE>
+					<FUNIT>CM</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Volume CAR</FNAME>
+					<FVALUE>36,036.000</FVALUE>
+					<FUNIT>CM3</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Gross Weight CAR</FNAME>
+					<FVALUE>6.000</FVALUE>
+					<FUNIT>KG</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Tax Status</FNAME>
+					<FVALUE>T2</FVALUE>
+				</FEATURE>
+			</ARTICLE_FEATURES>
+			<ARTICLE_ORDER_DETAILS>
+				<ORDER_UNIT>PCE</ORDER_UNIT>
+				<NO_CU_PER_OU>102</NO_CU_PER_OU>
+				<QUANTITY_MIN>1.000</QUANTITY_MIN>
+			</ARTICLE_ORDER_DETAILS>
+			<ARTICLE_PRICE_DETAILS>
+				<ARTICLE_PRICE price_type="net_customer">
+					<PRICE_AMOUNT>0.000</PRICE_AMOUNT>
+				</ARTICLE_PRICE>
+			</ARTICLE_PRICE_DETAILS>
+			<MIME_INFO>
+				<MIME>
+					<MIME_TYPE>image/jpeg</MIME_TYPE>
+					<MIME_SOURCE>1072546.jpg</MIME_SOURCE>
+					<MIME_DESCR>Image</MIME_DESCR>
+					<MIME_PURPOSE>normal</MIME_PURPOSE>
+				</MIME>
+				<MIME>
+					<MIME_TYPE>application/pdf</MIME_TYPE>
+					<MIME_SOURCE>1072546.pdf</MIME_SOURCE>
+					<MIME_DESCR>pdf</MIME_DESCR>
+					<MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+				</MIME>
+			</MIME_INFO>
+			<ARTICLE_REFERENCE type="accessories">
+				<ART_ID_TO>ToBeDefined</ART_ID_TO>
+			</ARTICLE_REFERENCE>
+		</ARTICLE>
+		<ARTICLE mode="new">
+			<SUPPLIER_AID>1708</SUPPLIER_AID>
+			<ARTICLE_DETAILS>
+				<DESCRIPTION_SHORT>Happy Perfume Spray</DESCRIPTION_SHORT>
+				<DESCRIPTION_LONG>Happy Perfume Spray</DESCRIPTION_LONG>
+				<EAN>2000000017082</EAN>
+				<SUPPLIER_ALT_AID>61CE010490</SUPPLIER_ALT_AID>
+				<MANUFACTURER_AID>0000300649</MANUFACTURER_AID>
+				<MANUFACTURER_NAME>Estée Lauder Companies</MANUFACTURER_NAME>
+			</ARTICLE_DETAILS>
+			<ARTICLE_FEATURES>
+				<FEATURE>
+					<FNAME>Net content</FNAME>
+					<FVALUE>100.000</FVALUE>
+					<FUNIT>ML</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Brand</FNAME>
+					<FVALUE>Clinique</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Name of product Line</FNAME>
+					<FVALUE>Happy</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Merchandise_Catagory</FNAME>
+					<FVALUE>T85101010</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Country of origin</FNAME>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Alcohol_percentage</FNAME>
+					<FVALUE>70.95</FVALUE>
+					<FUNIT>%</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Article_Description</FNAME>
+					<FVALUE>Happy Perfume Spray</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Base_Unit</FNAME>
+					<FVALUE>32</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Pallet_Content</FNAME>
+					<FVALUE>1.920</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Gross weight</FNAME>
+					<FVALUE>0.334</FVALUE>
+					<FUNIT>KG</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Net weight</FNAME>
+					<FVALUE>0.100</FVALUE>
+					<FUNIT>KG</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Commodity No.</FNAME>
+					<FVALUE>33030090000</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Charge for expiration date</FNAME>
+					<FVALUE>0</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Expiration date - Total Shelf Life</FNAME>
+					<FVALUE>0</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Lenght PCE</FNAME>
+					<FVALUE>5.900</FVALUE>
+					<FUNIT>CM</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Widht PCE</FNAME>
+					<FVALUE>3.500</FVALUE>
+					<FUNIT>CM</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Height PCE</FNAME>
+					<FVALUE>14.400</FVALUE>
+					<FUNIT>CM</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Lenght CAR</FNAME>
+					<FVALUE>1.000</FVALUE>
+					<FUNIT>CM</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Height CAR</FNAME>
+					<FVALUE>1.000</FVALUE>
+					<FUNIT>CM</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Volume CAR</FNAME>
+					<FVALUE>0.001</FVALUE>
+					<FUNIT>CD3</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Gross Weight CAR</FNAME>
+					<FVALUE>1.000</FVALUE>
+					<FUNIT>KG</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Tax Status</FNAME>
+					<FVALUE>T2</FVALUE>
+				</FEATURE>
+			</ARTICLE_FEATURES>
+			<ARTICLE_ORDER_DETAILS>
+				<ORDER_UNIT>PCE</ORDER_UNIT>
+				<NO_CU_PER_OU>32</NO_CU_PER_OU>
+				<QUANTITY_MIN>1.000</QUANTITY_MIN>
+			</ARTICLE_ORDER_DETAILS>
+			<ARTICLE_PRICE_DETAILS>
+				<ARTICLE_PRICE price_type="net_customer">
+					<PRICE_AMOUNT>0.000</PRICE_AMOUNT>
+				</ARTICLE_PRICE>
+			</ARTICLE_PRICE_DETAILS>
+			<MIME_INFO>
+				<MIME>
+					<MIME_TYPE>image/jpeg</MIME_TYPE>
+					<MIME_SOURCE>1708.jpg</MIME_SOURCE>
+					<MIME_DESCR>Image</MIME_DESCR>
+					<MIME_PURPOSE>normal</MIME_PURPOSE>
+				</MIME>
+				<MIME>
+					<MIME_TYPE>application/pdf</MIME_TYPE>
+					<MIME_SOURCE>1708.pdf</MIME_SOURCE>
+					<MIME_DESCR>pdf</MIME_DESCR>
+					<MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+				</MIME>
+			</MIME_INFO>
+			<ARTICLE_REFERENCE type="accessories">
+				<ART_ID_TO>ToBeDefined</ART_ID_TO>
+			</ARTICLE_REFERENCE>
+		</ARTICLE>
+		<ARTICLE mode="new">
+			<SUPPLIER_AID>10455</SUPPLIER_AID>
+			<ARTICLE_DETAILS>
+				<DESCRIPTION_SHORT>Eau de Toilette Spray</DESCRIPTION_SHORT>
+				<DESCRIPTION_LONG>Eau de Toilette Spray</DESCRIPTION_LONG>
+				<EAN>2000000104553</EAN>
+				<SUPPLIER_ALT_AID>2163010000</SUPPLIER_ALT_AID>
+				<MANUFACTURER_AID>0000300649</MANUFACTURER_AID>
+				<MANUFACTURER_NAME>Estée Lauder Companies</MANUFACTURER_NAME>
+				<SPECIAL_TREATMENT_CLASS type="GGV">IATA(CUST-ID-8000,9)</SPECIAL_TREATMENT_CLASS>
+				<SPECIAL_TREATMENT_CLASS type="GGV">ADR(CUST-UN-1266,3)</SPECIAL_TREATMENT_CLASS>
+				<SPECIAL_TREATMENT_CLASS type="GGV">IMDG(CUST-UN-1266,3)</SPECIAL_TREATMENT_CLASS>
+			</ARTICLE_DETAILS>
+			<ARTICLE_FEATURES>
+				<FEATURE>
+					<FNAME>Net content</FNAME>
+					<FVALUE>110.000</FVALUE>
+					<FUNIT>ML</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Brand</FNAME>
+					<FVALUE>Aramis</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Name of product Line</FNAME>
+					<FVALUE>Aramis Classic</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Merchandise_Catagory</FNAME>
+					<FVALUE>T85101020</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Country of origin</FNAME>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Alcohol_percentage</FNAME>
+					<FVALUE>79.78</FVALUE>
+					<FUNIT>%</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Article_Description</FNAME>
+					<FVALUE>Eau de Toilette Spray</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Base_Unit</FNAME>
+					<FVALUE>28</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Pallet_Content</FNAME>
+					<FVALUE>1.400</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Gross weight</FNAME>
+					<FVALUE>0.299</FVALUE>
+					<FUNIT>KG</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Net weight</FNAME>
+					<FVALUE>0.110</FVALUE>
+					<FUNIT>KG</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Commodity No.</FNAME>
+					<FVALUE>33030090000</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Charge for expiration date</FNAME>
+					<FVALUE>0</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Expiration date - Total Shelf Life</FNAME>
+					<FVALUE>0</FVALUE>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Lenght PCE</FNAME>
+					<FVALUE>6.700</FVALUE>
+					<FUNIT>CM</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Widht PCE</FNAME>
+					<FVALUE>3.400</FVALUE>
+					<FUNIT>CM</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Height PCE</FNAME>
+					<FVALUE>12.400</FVALUE>
+					<FUNIT>CM</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Lenght CAR</FNAME>
+					<FVALUE>1.000</FVALUE>
+					<FUNIT>CM</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Height CAR</FNAME>
+					<FVALUE>1.000</FVALUE>
+					<FUNIT>CM</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Volume CAR</FNAME>
+					<FVALUE>0.001</FVALUE>
+					<FUNIT>CD3</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Gross Weight CAR</FNAME>
+					<FVALUE>1.000</FVALUE>
+					<FUNIT>KG</FUNIT>
+				</FEATURE>
+				<FEATURE>
+					<FNAME>Tax Status</FNAME>
+					<FVALUE>T2</FVALUE>
+				</FEATURE>
+			</ARTICLE_FEATURES>
+			<ARTICLE_ORDER_DETAILS>
+				<ORDER_UNIT>PCE</ORDER_UNIT>
+				<NO_CU_PER_OU>28</NO_CU_PER_OU>
+				<QUANTITY_MIN>1.000</QUANTITY_MIN>
+			</ARTICLE_ORDER_DETAILS>
+			<ARTICLE_PRICE_DETAILS>
+				<ARTICLE_PRICE price_type="net_customer">
+					<PRICE_AMOUNT>0.000</PRICE_AMOUNT>
+				</ARTICLE_PRICE>
+			</ARTICLE_PRICE_DETAILS>
+			<MIME_INFO>
+				<MIME>
+					<MIME_TYPE>image/jpeg</MIME_TYPE>
+					<MIME_SOURCE>10455.jpg</MIME_SOURCE>
+					<MIME_DESCR>Image</MIME_DESCR>
+					<MIME_PURPOSE>normal</MIME_PURPOSE>
+				</MIME>
+				<MIME>
+					<MIME_TYPE>application/pdf</MIME_TYPE>
+					<MIME_SOURCE>10455.pdf</MIME_SOURCE>
+					<MIME_DESCR>pdf</MIME_DESCR>
+					<MIME_PURPOSE>data_sheet</MIME_PURPOSE>
+				</MIME>
+			</MIME_INFO>
+			<ARTICLE_REFERENCE type="accessories">
+				<ART_ID_TO>ToBeDefined</ART_ID_TO>
+			</ARTICLE_REFERENCE>
+		</ARTICLE>
+		<ARTICLE_TO_CATALOGGROUP_MAP>
+			<ART_ID>000000000001072546</ART_ID>
+			<CATALOG_GROUP_ID/>
+		</ARTICLE_TO_CATALOGGROUP_MAP>
+	</T_NEW_CATALOG>
+</BMECAT>
