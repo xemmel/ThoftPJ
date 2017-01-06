@@ -23,5 +23,14 @@ git commit -m "A description of the changes I made"
 git push 
 ```
 
+##Using _Save to File_
+
+Write a file pattern in the text box, use the following if you need a unique file name
+
+```
+c:\temp\%GUID%.xml
+```
+
+
 
 
